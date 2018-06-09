@@ -55,6 +55,6 @@ fs.readdir(__dirname + '/pics/', function(err, files) {
 
     setInterval(function(){
       upload_random_image(images);
-    }, 60000);
+    }, 60000*60*24);
   }
 });
