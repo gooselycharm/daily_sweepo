@@ -1,0 +1,11 @@
+{
+  "name": "daily_sweepo",
+  "version": "1.0.0",
+  "description": "daily pics of sweet potato",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
